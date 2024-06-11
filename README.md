@@ -12,8 +12,19 @@ This project is a simple Medical Store Management System developed using Python 
 
 ## Prerequisites
 Make sure you have the following installed on your system:
-- Python 3.x
+- Python 3 Latest version
 - `pip` (Python package installer)
+
+## Tools
+1. Pycharm
+2. Python
+
+## Laibarys 
+1. chardet
+2. messagebox
+3. pillow
+4. reportlab
+5. sqlite3
 
 ## Installation
 1. Clone the repository:
@@ -47,7 +58,7 @@ Make sure you have the following installed on your system:
 - **Modify Medicine**: Click the "Modify Medicine" button, search for the medicine, and update its details.
 - **Delete Medicine**: Click the "Delete Medicine" button, search for the medicine, and delete it.
 - **Make the Bill**: Click the "Make Bill" button to make the bill, after making the bill we print and download the bill
-- **Bill History**: Click the "Bill History" button to show the all bill history with the name of customer name, cost and Bill id 
+- **Bill History**: Click the "Bill History" button to show the all bill history with the name of customer name, cost and bill ID 
 
 ## Requirements
 The `requirements.txt` file should include all necessary dependencies. Ensure the file contains the following:
@@ -55,5 +66,11 @@ The `requirements.txt` file should include all necessary dependencies. Ensure th
 ## Contributing
 If you wish to contribute to the project, please fork the repository and submit a pull request.
 
+## Author
+This project was developed by Roshan Kumar Sharma. You can reach out via: - Email : roshan.amlai96@gmail.com LinkedIn : https://www.linkedin.com/in/RoshanSharma7/ Twitter : https://www.twitter.com/imroshansharma7 portfolio : https://roshansharma7.github.io/Roshan.github.io/ for any questions or collaboration opportunities.
+
 ## License
 This project is licensed under the MIT License.
+
+## Notes
+Please follow me on all platforms.
