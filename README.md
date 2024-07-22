@@ -67,7 +67,7 @@ The `requirements.txt` file should include all necessary dependencies. Ensure th
 If you wish to contribute to the project, please fork the repository and submit a pull request.
 
 ## Author
-This project was developed by Roshan Kumar Sharma. You can reach out via: - Email : roshan.amlai96@gmail.com LinkedIn : https://www.linkedin.com/in/RoshanSharma7/ Twitter : https://www.twitter.com/imroshansharma7 portfolio : https://roshansharma7.github.io/Roshan.github.io/ for any questions or collaboration opportunities.
+Roshan Kumar Sharma developed this project. You can reach out via: - Email: roshan.amlai96@gmail.com LinkedIn: https://www.linkedin.com/in/RoshanSharma7/ Twitter: https://www.twitter.com/imroshansharma7 Portfolio: https://roshansharma7.github.io/Roshan.github.io/ for any questions or collaboration opportunities.
 
 ## License
 This project is licensed under the MIT License.
